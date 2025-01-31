@@ -11,7 +11,8 @@ int suma (int a, int b){
 
 }
 
-int multsum(int a, int b){
+
+int multsum2(int a, int b){
     int c,d;
     c=suma (a,b);
     d=mult(a, b);
